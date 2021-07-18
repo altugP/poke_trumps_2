@@ -85,6 +85,8 @@ read an article on Neumorphic Design and tried to add our own twist to that.
 
 ### Video of current Version
 
+https://user-images.githubusercontent.com/58511096/126072879-c00f6709-31ec-4343-b4cb-63d424909436.mp4
+
 ### Screenshots of the old Version
 Using good looking assets, like official Pokémon assets, and replacing the programmer art in this version
 of the project one can create the privately created first version of this app. A quick demonstration:
