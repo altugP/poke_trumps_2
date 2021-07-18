@@ -1,0 +1,528 @@
+{
+    "set_id": 1,
+    "set_name": "PokeTrumps 2 - Electric Boogaloo",
+    "set_description": "The game you never liked is back, and this time it's even more boring than before. These new Pokémon are waiting to be played.",
+    "image": "assets/img/set/set2.png",
+    "cards": [
+        {
+            "set_id": 1,
+            "id": 0,
+            "name": "Scizor",
+            "image": "assets/img/card/scizor_set1.jpg",
+            "pokemon_type": "bug",
+            "pokemon_values": {
+                "attack": 9,
+                "defense": 9,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/scizor_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 1,
+            "name": "Spinarak",
+            "image": "assets/img/card/spinarak_set1.jpg",
+            "pokemon_type": "bug",
+            "pokemon_values": {
+                "attack": 3,
+                "defense": 4,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/spinarak_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 2,
+            "name": "Incineroar",
+            "image": "assets/img/card/incineroar_set1.jpg",
+            "pokemon_type": "dark",
+            "pokemon_values": {
+                "attack": 9,
+                "defense": 6,
+                "speed": 1
+            },
+            "pokemon_animation": "assets/gif/card/incineroar_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 3,
+            "name": "Krookodile",
+            "image": "assets/img/card/krookodile_set1.jpg",
+            "pokemon_type": "dark",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 8,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/krookodile_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 4,
+            "name": "Noivern",
+            "image": "assets/img/card/noivern_set1.jpg",
+            "pokemon_type": "dragon",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 6,
+                "speed": 10
+            },
+            "pokemon_animation": "assets/gif/card/noivern_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 5,
+            "name": "Hydreigon",
+            "image": "assets/img/card/hydreigon_set1.jpg",
+            "pokemon_type": "dragon",
+            "pokemon_values": {
+                "attack": 9,
+                "defense": 5,
+                "speed": 8
+            },
+            "pokemon_animation": "assets/gif/card/hydreigon_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 6,
+            "name": "Charizard",
+            "image": "assets/img/card/charizard_set1.jpg",
+            "pokemon_type": "dragon",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 7,
+                "speed": 8
+            },
+            "pokemon_animation": "assets/gif/card/charizard_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 7,
+            "name": "Luxray",
+            "image": "assets/img/card/luxray_set1.jpg",
+            "pokemon_type": "electric",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 5,
+                "speed": 7
+            },
+            "pokemon_animation": "assets/gif/card/luxray_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 8,
+            "name": "Electivire",
+            "image": "assets/img/card/electivire_set1.jpg",
+            "pokemon_type": "electric",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 5,
+                "speed": 7
+            },
+            "pokemon_animation": "assets/gif/card/electivire_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 9,
+            "name": "Zeraora",
+            "image": "assets/img/card/zeraora_set1.jpg",
+            "pokemon_type": "electric",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 2,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/zeraora_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 10,
+            "name": "Guardevoir",
+            "image": "assets/img/card/guardevoir_set1.jpg",
+            "pokemon_type": "fairy",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 7,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/guardevoir_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 11,
+            "name": "Sylveon",
+            "image": "assets/img/card/sylveon_set1.jpg",
+            "pokemon_type": "fairy",
+            "pokemon_values": {
+                "attack": 5,
+                "defense": 6,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/sylveon_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 12,
+            "name": "Lucario",
+            "image": "assets/img/card/lucario_set1.jpg",
+            "pokemon_type": "fighting",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 8,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/lucario_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 13,
+            "name": "Blaziken",
+            "image": "assets/img/card/blaziken_set1.jpg",
+            "pokemon_type": "fighting",
+            "pokemon_values": {
+                "attack": 12,
+                "defense": 7,
+                "speed": 8
+            },
+            "pokemon_animation": "assets/gif/card/blaziken_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 14,
+            "name": "Typhlosion",
+            "image": "assets/img/card/typhlosion_set1.jpg",
+            "pokemon_type": "fire",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 4,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/typhlosion_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 15,
+            "name": "Arcanine",
+            "image": "assets/img/card/arcanine_set1.jpg",
+            "pokemon_type": "fire",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 6,
+                "speed": 7
+            },
+            "pokemon_animation": "assets/gif/card/arcanine_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 16,
+            "name": "Gliscor",
+            "image": "assets/img/card/gliscor_set1.jpg",
+            "pokemon_type": "flying",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 9,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/gliscor_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 17,
+            "name": "Lugia",
+            "image": "assets/img/card/lugia_set1.jpg",
+            "pokemon_type": "flying",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 10,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/lugia_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 18,
+            "name": "Chandelure",
+            "image": "assets/img/card/chandelure_set1.jpg",
+            "pokemon_type": "ghost",
+            "pokemon_values": {
+                "attack": 9,
+                "defense": 6,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/chandelure_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 19,
+            "name": "Lunala",
+            "image": "assets/img/card/lunala_set1.jpg",
+            "pokemon_type": "ghost",
+            "pokemon_values": {
+                "attack": 10,
+                "defense": 5,
+                "speed": 7
+            },
+            "pokemon_animation": "assets/gif/card/lunala_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 20,
+            "name": "Phantump",
+            "image": "assets/img/card/phantump_set1.jpg",
+            "pokemon_type": "grass",
+            "pokemon_values": {
+                "attack": 2,
+                "defense": 3,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/phantump_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 21,
+            "name": "Torterra",
+            "image": "assets/img/card/torterra_set1.jpg",
+            "pokemon_type": "grass",
+            "pokemon_values": {
+                "attack": 3,
+                "defense": 8,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/torterra_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 22,
+            "name": "Swampert",
+            "image": "assets/img/card/swampert_set1.jpg",
+            "pokemon_type": "ground",
+            "pokemon_values": {
+                "attack": 11,
+                "defense": 9,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/swampert_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 23,
+            "name": "Excadrill",
+            "image": "assets/img/card/excadrill_set1.jpg",
+            "pokemon_type": "ground",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 5,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/excadrill_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 24,
+            "name": "Sandslash",
+            "image": "assets/img/card/sandslash_set1.jpg",
+            "pokemon_type": "ice",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 8,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/sandslash_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 25,
+            "name": "Cloyster",
+            "image": "assets/img/card/cloyster_set1.jpg",
+            "pokemon_type": "ice",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 7,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/cloyster_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 26,
+            "name": "Staraptor",
+            "image": "assets/img/card/staraptor_set1.jpg",
+            "pokemon_type": "normal",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 6,
+                "speed": 8
+            },
+            "pokemon_animation": "assets/gif/card/staraptor_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 27,
+            "name": "Bouffalant",
+            "image": "assets/img/card/bouffalant_set1.jpg",
+            "pokemon_type": "normal",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 5,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/bouffalant_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 28,
+            "name": "Roserade",
+            "image": "assets/img/card/roserade_set1.jpg",
+            "pokemon_type": "poison",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 5,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/roserade_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 29,
+            "name": "Salazzle",
+            "image": "assets/img/card/salazzle_set1.jpg",
+            "pokemon_type": "poison",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 1,
+                "speed": 6
+            },
+            "pokemon_animation": "assets/gif/card/salazzle_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 30,
+            "name": "Chimecho",
+            "image": "assets/img/card/chimecho_set1.jpg",
+            "pokemon_type": "psychic",
+            "pokemon_values": {
+                "attack": 4,
+                "defense": 6,
+                "speed": 5
+            },
+            "pokemon_animation": "assets/gif/card/chimecho_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 31,
+            "name": "Slowking",
+            "image": "assets/img/card/slowking_set1.jpg",
+            "pokemon_type": "psychic",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 8,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/slowking_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 32,
+            "name": "Lycanroc",
+            "image": "assets/img/card/lycanroc_set1.jpg",
+            "pokemon_type": "rock",
+            "pokemon_values": {
+                "attack": 5,
+                "defense": 7,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/lycanroc_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 33,
+            "name": "Regirock",
+            "image": "assets/img/card/regirock_set1.jpg",
+            "pokemon_type": "rock",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 9,
+                "speed": 1
+            },
+            "pokemon_animation": "assets/gif/card/regirock_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 34,
+            "name": "Aegislash",
+            "image": "assets/img/card/aegislash_set1.jpg",
+            "pokemon_type": "steel",
+            "pokemon_values": {
+                "attack": 10,
+                "defense": 10,
+                "speed": 2
+            },
+            "pokemon_animation": "assets/gif/card/aegislash_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 35,
+            "name": "Empoleon",
+            "image": "assets/img/card/empoleon_set1.jpg",
+            "pokemon_type": "steel",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 7,
+                "speed": 7
+            },
+            "pokemon_animation": "assets/gif/card/empoleon_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 36,
+            "name": "Greninja",
+            "image": "assets/img/card/greninja_set1.jpg",
+            "pokemon_type": "water",
+            "pokemon_values": {
+                "attack": 7,
+                "defense": 3,
+                "speed": 8
+            },
+            "pokemon_animation": "assets/gif/card/greninja_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 37,
+            "name": "Kingler",
+            "image": "assets/img/card/kingler_set1.jpg",
+            "pokemon_type": "water",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 5,
+                "speed": 3
+            },
+            "pokemon_animation": "assets/gif/card/kingler_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 38,
+            "name": "Gyarados",
+            "image": "assets/img/card/gyarados_set1.jpg",
+            "pokemon_type": "water",
+            "pokemon_values": {
+                "attack": 8,
+                "defense": 4,
+                "speed": 4
+            },
+            "pokemon_animation": "assets/gif/card/gyarados_set1.gif"
+        },
+        {
+            "set_id": 1,
+            "id": 39,
+            "name": "Wishiwashi",
+            "image": "assets/img/card/wishiwashi_set1.jpg",
+            "pokemon_type": "water",
+            "pokemon_values": {
+                "attack": 6,
+                "defense": 8,
+                "speed": 1
+            },
+            "pokemon_animation": "assets/gif/card/wishiwashi_set1.gif"
+        }
+    ]
+}

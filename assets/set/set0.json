@@ -1,0 +1,502 @@
+{
+  "set_id": 0,
+  "set_name": "PokeTrumps - Origins",
+  "set_description": "How it all began. Discover some of our favourite Pokémon in a more or less boring game about cards.",
+  "image": "assets/img/set/set1.png",
+  "cards": [
+    {
+      "set_id": 0,
+      "id": 0,
+      "name": "Beedrill",
+      "image": "assets/img/card/beedrill_set0.jpg",
+      "pokemon_type": "bug",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 3,
+        "speed": 6
+      },
+      "pokemon_animation": "assets/gif/card/beedrill_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 1,
+      "name": "Kricketune",
+      "image": "assets/img/card/kricketune_set0.jpg",
+      "pokemon_type": "bug",
+      "pokemon_values": {
+        "attack": 4,
+        "defense": 4,
+        "speed": 4
+      },
+      "pokemon_animation": "assets/gif/card/kricketune_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 2,
+      "name": "Tyranitar",
+      "image": "assets/img/card/tyranitar_set0.jpg",
+      "pokemon_type": "dark",
+      "pokemon_values": {
+        "attack": 9,
+        "defense": 8,
+        "speed": 4
+      },
+      "pokemon_animation": "assets/gif/card/tyranitar_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 3,
+      "name": "Sneasel",
+      "image": "assets/img/card/sneasel_set0.jpg",
+      "pokemon_type": "dark",
+      "pokemon_values": {
+        "attack": 5,
+        "defense": 3,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/sneasel_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 4,
+      "name": "Flygon",
+      "image": "assets/img/card/flygon_set0.jpg",
+      "pokemon_type": "dragon",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 6,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/flygon_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 5,
+      "name": "Garchomp",
+      "image": "assets/img/card/garchomp_set0.jpg",
+      "pokemon_type": "dragon",
+      "pokemon_values": {
+        "attack": 10,
+        "defense": 7,
+        "speed": 6
+      },
+      "pokemon_animation": "assets/gif/card/garchomp_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 6,
+      "name": "Rayquaza",
+      "image": "assets/img/card/rayquaza_set0.jpg",
+      "pokemon_type": "dragon",
+      "pokemon_values": {
+        "attack": 12,
+        "defense": 8,
+        "speed": 10
+      },
+      "pokemon_animation": "assets/gif/card/rayquaza_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 7,
+      "name": "Raichu",
+      "image": "assets/img/card/raichu_set0.jpg",
+      "pokemon_type": "electric",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 4,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/raichu_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 8,
+      "name": "Zapdos",
+      "image": "assets/img/card/zapdos_set0.jpg",
+      "pokemon_type": "electric",
+      "pokemon_values": {
+        "attack": 9,
+        "defense": 7,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/zapdos_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 9,
+      "name": "Azumarill",
+      "image": "assets/img/card/azumarill_set0.jpg",
+      "pokemon_type": "fairy",
+      "pokemon_values": {
+        "attack": 9,
+        "defense": 7,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/azumarill_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 10,
+      "name": "Cleffa",
+      "image": "assets/img/card/cleffa_set0.jpg",
+      "pokemon_type": "fairy",
+      "pokemon_values": {
+        "attack": 3,
+        "defense": 4,
+        "speed": 4
+      },
+      "pokemon_animation": "assets/gif/card/cleffa_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 11,
+      "name": "Infernape",
+      "image": "assets/img/card/infernape_set0.jpg",
+      "pokemon_type": "fighting",
+      "pokemon_values": {
+        "attack": 8,
+        "defense": 4,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/infernape_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 12,
+      "name": "Meditite",
+      "image": "assets/img/card/meditite_set0.jpg",
+      "pokemon_type": "fighting",
+      "pokemon_values": {
+        "attack": 4,
+        "defense": 5,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/meditite_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 13,
+      "name": "Talonflame",
+      "image": "assets/img/card/talonflame_set0.jpg",
+      "pokemon_type": "fire",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 5,
+        "speed": 9
+      },
+      "pokemon_animation": "assets/gif/card/talonflame_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 14,
+      "name": "Volcarona",
+      "image": "assets/img/card/volcarona_set0.jpg",
+      "pokemon_type": "fire",
+      "pokemon_values": {
+        "attack": 10,
+        "defense": 7,
+        "speed": 6
+      },
+      "pokemon_animation": "assets/gif/card/volcarona_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 15,
+      "name": "Murkrow",
+      "image": "assets/img/card/murkrow_set0.jpg",
+      "pokemon_type": "flying",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 4,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/murkrow_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 16,
+      "name": "Charizard",
+      "image": "assets/img/card/charizard_set0.jpg",
+      "pokemon_type": "flying",
+      "pokemon_values": {
+        "attack": 9,
+        "defense": 6,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/charizard_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 17,
+      "name": "Lampent",
+      "image": "assets/img/card/lampent_set0.jpg",
+      "pokemon_type": "ghost",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 4,
+        "speed": 2
+      },
+      "pokemon_animation": "assets/gif/card/lampent_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 18,
+      "name": "Shuppet",
+      "image": "assets/img/card/shuppet_set0.jpg",
+      "pokemon_type": "ghost",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 6,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/shuppet_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 19,
+      "name": "Ferrothorn",
+      "image": "assets/img/card/ferrothorn_set0.jpg",
+      "pokemon_type": "grass",
+      "pokemon_values": {
+        "attack": 2,
+        "defense": 9,
+        "speed": 1
+      },
+      "pokemon_animation": "assets/gif/card/ferrothorn_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 20,
+      "name": "Leavanny",
+      "image": "assets/img/card/leavanny_set0.jpg",
+      "pokemon_type": "grass",
+      "pokemon_values": {
+        "attack": 8,
+        "defense": 6,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/leavanny_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 21,
+      "name": "Mamoswine",
+      "image": "assets/img/card/mamoswine_set0.jpg",
+      "pokemon_type": "ground",
+      "pokemon_values": {
+        "attack": 8,
+        "defense": 7,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/mamoswine_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 22,
+      "name": "Onix",
+      "image": "assets/img/card/onix_set0.jpg",
+      "pokemon_type": "ground",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 8,
+        "speed": 3
+      },
+      "pokemon_animation": "assets/gif/card/onix_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 23,
+      "name": "Ninetails",
+      "image": "assets/img/card/ninetails_set0.jpg",
+      "pokemon_type": "ice",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 5,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/ninetails_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 24,
+      "name": "Walrein",
+      "image": "assets/img/card/walrein_set0.jpg",
+      "pokemon_type": "ice",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 8,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/walrein_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 25,
+      "name": "Pidgeot",
+      "image": "assets/img/card/pidgeot_set0.jpg",
+      "pokemon_type": "normal",
+      "pokemon_values": {
+        "attack": 8,
+        "defense": 6,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/pidgeot_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 26,
+      "name": "Raticate",
+      "image": "assets/img/card/raticate_set0.jpg",
+      "pokemon_type": "normal",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 6,
+        "speed": 9
+      },
+      "pokemon_animation": "assets/gif/card/raticate_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 27,
+      "name": "Dragalge",
+      "image": "assets/img/card/dragalge_set0.jpg",
+      "pokemon_type": "poison",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 6,
+        "speed": 1
+      },
+      "pokemon_animation": "assets/gif/card/dragalge_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 28,
+      "name": "Tentacool",
+      "image": "assets/img/card/tentacool_set0.jpg",
+      "pokemon_type": "poison",
+      "pokemon_values": {
+        "attack": 4,
+        "defense": 9,
+        "speed": 3
+      },
+      "pokemon_animation": "assets/gif/card/tentacool_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 29,
+      "name": "Deoxys",
+      "image": "assets/img/card/deoxys_set0.jpg",
+      "pokemon_type": "psychic",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 7,
+        "speed": 12
+      },
+      "pokemon_animation": "assets/gif/card/deoxys_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 30,
+      "name": "Mew",
+      "image": "assets/img/card/mew_set0.jpg",
+      "pokemon_type": "psychic",
+      "pokemon_values": {
+        "attack": 7,
+        "defense": 7,
+        "speed": 7
+      },
+      "pokemon_animation": "assets/gif/card/mew_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 31,
+      "name": "Starmie",
+      "image": "assets/img/card/starmie_set0.jpg",
+      "pokemon_type": "psychic",
+      "pokemon_values": {
+        "attack": 6,
+        "defense": 4,
+        "speed": 8
+      },
+      "pokemon_animation": "assets/gif/card/starmie_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 32,
+      "name": "Armaldo",
+      "image": "assets/img/card/armaldo_set0.jpg",
+      "pokemon_type": "rock",
+      "pokemon_values": {
+        "attack": 9,
+        "defense": 8,
+        "speed": 3
+      },
+      "pokemon_animation": "assets/gif/card/armaldo_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 33,
+      "name": "Lunatone",
+      "image": "assets/img/card/lunatone_set0.jpg",
+      "pokemon_type": "rock",
+      "pokemon_values": {
+        "attack": 5,
+        "defense": 6,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/lunatone_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 34,
+      "name": "Magneton",
+      "image": "assets/img/card/magneton_set0.jpg",
+      "pokemon_type": "steel",
+      "pokemon_values": {
+        "attack": 8,
+        "defense": 7,
+        "speed": 5
+      },
+      "pokemon_animation": "assets/gif/card/magneton_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 35,
+      "name": "Metagross",
+      "image": "assets/img/card/metagross_set0.jpg",
+      "pokemon_type": "steel",
+      "pokemon_values": {
+        "attack": 10,
+        "defense": 11,
+        "speed": 8
+      },
+      "pokemon_animation": "assets/gif/card/metagross_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 36,
+      "name": "Corsola",
+      "image": "assets/img/card/corsola_set0.jpg",
+      "pokemon_type": "water",
+      "pokemon_values": {
+        "attack": 4,
+        "defense": 7,
+        "speed": 2
+      },
+      "pokemon_animation": "assets/gif/card/corsola_set0.gif"
+    },
+    {
+      "set_id": 0,
+      "id": 37,
+      "name": "Piplup",
+      "image": "assets/img/card/piplup_set0.jpg",
+      "pokemon_type": "water",
+      "pokemon_values": {
+        "attack": 4,
+        "defense": 4,
+        "speed": 3
+      },
+      "pokemon_animation": "assets/gif/card/piplup_set0.gif"
+    }
+  ]
+}

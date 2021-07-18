@@ -1,0 +1,51 @@
+name: poke_trumps
+description: A Flutter project for the course Mobile Application Lab (WiSe 2019/20, Ulm University). The goal of this project is to create a Top Trumps game involving Pokémon cards in the form of a native app for both iOS and Android.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flutter_swiper: ^1.1.6
+  flip_card: ^0.4.4
+  shared_preferences: ^0.5.6
+  auto_size_text: ^2.1.0
+  logger: ^0.8.2
+  path_provider: ^1.5.1
+  sqflite:
+  path:
+  vector_math: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.4
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/launcher/fallback.png"
+  image_path_android: "assets/launcher/fallback.png"
+  adaptive_icon_background: "assets/launcher/background.png"
+  adaptive_icon_foreground: "assets/launcher/foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/gif/
+    - assets/gif/card/
+    - assets/icon/
+    - assets/icon/type/
+    - assets/img/
+    - assets/img/card/
+    - assets/img/gym/
+    - assets/img/screen/
+    - assets/img/sleeve/
+    - assets/img/set/
+    - assets/launcher/
+    - assets/set/
